@@ -6,7 +6,9 @@ import java.util.Scanner;
  */
 public class DragonFighter{
 
+    // our valiant hero!
     private Fighter fighter;
+    // our dangerous lizard!
     private Dragon dragon;
 
     /**
